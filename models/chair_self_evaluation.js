@@ -1,7 +1,6 @@
 const mongoose = require('mongoose');
 
 const modelName = 'ChairSelfEvaluation';
-mongoose.connect('mongodb://localhost:27017/myapp', { useNewUrlParser: true, useUnifiedTopology: true });
 
 const ChairSelfEvaluationSchema = mongoose.Schema({
     year: { type: String, default: null },
@@ -16,7 +15,7 @@ const ChairSelfEvaluationSchema = mongoose.Schema({
     approved_by: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
     approved_date: { type: Date, default: null },
 
-    // the faculty id of the chair filling the form.
+    // document_owner
     user: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
 
     // Chair's profile.
@@ -86,7 +85,7 @@ const ChairSelfEvaluationSchema = mongoose.Schema({
     // technology transfer
     it_projects_initiated: { type: Number, default: null },
     it_projects_completed: { type: Number, default: null },
-    potential_research_outputs: { type: Number, default: null },
+    patented_research_outputs: { type: Number, default: null },
 
     // community engagement
     num_of_community_services_initiated: { type: Number, default: null },
@@ -94,7 +93,4 @@ const ChairSelfEvaluationSchema = mongoose.Schema({
     num_of_benefited_parties: { type: Number, default: null },
 });
 
-const model = mongoose.model(modelName, ChairSelfEvaluationSchema);
-
-const first = model({});
-first.save();
+module.exports = mongoose.model(modelName, ChairSelfEvaluationSchema);
