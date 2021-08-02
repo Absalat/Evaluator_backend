@@ -1,6 +1,9 @@
-var express = require('express');
-var router = express.Router();
+const express = require('express');
 
-router.post('/faculty_evaluation', (req, res) => res.end('reached'));
+const { authenticateUser } = require('../middlewares/auth');
+
+const router = express.Router();
+
+router.post('/faculty_evaluation', authenticateUser, (req, res) => res.end('reached'));
 
 module.exports = router;
