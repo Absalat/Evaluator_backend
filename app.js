@@ -1,22 +1,23 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
-var mongoose = require('mongoose');
-var dotenv = require('dotenv');
+const createError = require('http-errors');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
 
 dotenv.config();
 
-mongoose.connect('mongodb://localhost:27017/myapp', {
+mongoose.connect(process.env.MONGODB_URL, {
   useNewUrlParser: true,
-  useUnifiedTopology: true
+  useUnifiedTopology: true,
+  useCreateIndex: true,
 });
 
-var indexRouter = require('./routes/index');
-var authRouter = require('./routes/auth');
+const indexRouter = require('./routes/index');
+const authRouter = require('./routes/auth');
 
-var app = express();
+const app = express();
 
 app.use(logger('dev'));
 app.use(express.json());
