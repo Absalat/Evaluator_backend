@@ -4,6 +4,9 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var mongoose = require('mongoose');
+var dotenv = require('dotenv');
+
+dotenv.config();
 
 mongoose.connect('mongodb://localhost:27017/myapp', {
   useNewUrlParser: true,
