@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "createSuperUser": "node ./seeder/create_super_admin.js"
+    "createSuperUser": "node ./seeder/create_super_admin.js",
+    "populateUsers": "node ./seeder/create_users.js"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
