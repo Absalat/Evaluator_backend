@@ -24,14 +24,14 @@ const FacultySelfEvaluationSchema = mongoose.Schema({
     user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true },
 
     // course tought
-    bsc_courses: { type: [CourseSchema], default: [] },
-    msc_courses: { type: [CourseSchema], default: [] },
-    phd_courses: { type: [CourseSchema], default: [] },
+    tought_bsc_courses: { type: [CourseSchema], default: [] },
+    tought_msc_courses: { type: [CourseSchema], default: [] },
+    tought_phd_courses: { type: [CourseSchema], default: [] },
 
     // tutored courses
-    bsc_courses: { type: Number, default: null },
-    msc_courses: { type: Number, default: null },
-    phd_courses: { type: Number, default: null },
+    tutored_bsc_courses: { type: Number, default: null },
+    tutored_msc_courses: { type: Number, default: null },
+    tutored_phd_courses: { type: Number, default: null },
 
     // teaching and learning
     student_feedback_teaching_quality_rating: { type: Number, min: 0, max: 5, default: 0 },
