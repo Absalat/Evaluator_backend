@@ -19,6 +19,7 @@ const FacultySchema = mongoose.Schema({
     // auth fields
     username: { type: String, unique: true, required: true },
     password: { type: String, required: true },
+    profile_filled: { type: Boolean, default: false },
     roles: {
         type: [{
             type: String,
@@ -64,6 +65,7 @@ FacultySchema.methods.isPasswordCorrect = function (password) {
 FacultySchema.methods.updateProfile = function (profileInfo = {}) {
     delete profileInfo.username;
     delete profileInfo.password;
+    delete newProfile.roles;
 
     for (let key of Object.keys(profileInfo)) {
         this[key] = profileInfo[key];

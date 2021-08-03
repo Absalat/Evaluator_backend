@@ -20,7 +20,7 @@ router.post('/login', async (req, res) => {
         const user = await FacultySchema.findByUsername(username);
         const bearerToken = await jwtCrtl.createToken({ userId: user._id }, process.env.ENCR_SECRET);
 
-        return success(res, { token: bearerToken });
+        return success(res, { token: bearerToken, user: user });
     } catch (err) {
         console.log(err);
         return failure(res, 'Invalid login');
@@ -47,10 +47,7 @@ router.put('/profile', authenticateUser, async (req, res) => {
     const newProfile = req.body;
 
     try {
-        if (!req.user.roles.includes(SUPER_ADMIN)) {
-            delete newProfile.roles;
-        }
-
+        newProfile.profile_filled = true;
         await req.user.updateProfile(newProfile);
         return success(res, req.user);
     } catch (err) {

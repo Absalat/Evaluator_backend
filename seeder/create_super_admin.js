@@ -16,6 +16,7 @@ mongoose.connect(process.env.MONGODB_URL, {
     const superAdmin = await FacultySchema.create({
         username: process.env.SUPER_ADMIN_USERNAME,
         password: process.env.SUPER_ADMIN_PASSWORD,
+        profile_filled: true,
         roles: [
             roles.SUPER_ADMIN,
             roles.FACULTY,
