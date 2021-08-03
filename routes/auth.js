@@ -35,6 +35,7 @@ router.post('/signup', authenticateUser, is(SUPER_ADMIN), async (req, res) => {
     }
 
     try {
+        req.body.roles = [FACULTY];
         const newUser = await FacultySchema.create(req.body);
 
         return success(res, newUser);
