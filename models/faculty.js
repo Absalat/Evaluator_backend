@@ -65,7 +65,7 @@ FacultySchema.methods.isPasswordCorrect = function (password) {
 FacultySchema.methods.updateProfile = function (profileInfo = {}) {
     delete profileInfo.username;
     delete profileInfo.password;
-    delete newProfile.roles;
+    delete profileInfo.roles;
 
     for (let key of Object.keys(profileInfo)) {
         this[key] = profileInfo[key];
