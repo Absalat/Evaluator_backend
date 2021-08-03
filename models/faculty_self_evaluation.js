@@ -90,6 +90,7 @@ const FacultySelfEvaluationSchema = mongoose.Schema({
     mentoring_internship_students_number: { type: Number, default: null },
 
     // consultancy
+    short_term_training: { type: Number, default: null },
     num_of_consulting_services_initiated: { type: Number, default: null },
     num_of_consulting_services_completed: { type: Number, default: null },
     consulting_income_generated: { type: Number, default: null },
@@ -98,6 +99,7 @@ const FacultySelfEvaluationSchema = mongoose.Schema({
     it_projects_initiated: { type: Number, default: null },
     it_projects_completed: { type: Number, default: null },
     patented_research_outputs: { type: Number, default: null },
+    enterprise_encubated: { type: Number, defaut: null },
 
     // community engagement
     num_of_community_services_initiated: { type: Number, default: null },
