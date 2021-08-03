@@ -1,5 +1,5 @@
 const express = require('express');
-const FacultySchema = require('../models/faculty');
+const { FacultyModel } = require('../models');
 
 const jwtCrtl = require('../helpers/jwt');
 
@@ -17,12 +17,11 @@ router.post('/login', async (req, res) => {
     }
 
     try {
-        const user = await FacultySchema.findByUsername(username);
+        const user = await FacultyModel.findByUsername(username);
         const bearerToken = await jwtCrtl.createToken({ userId: user._id }, process.env.ENCR_SECRET);
 
         return success(res, { token: bearerToken, user: user });
     } catch (err) {
-        console.log(err);
         return failure(res, 'Invalid login');
     }
 });
@@ -36,7 +35,7 @@ router.post('/signup', authenticateUser, is(SUPER_ADMIN), async (req, res) => {
 
     try {
         req.body.roles = [FACULTY];
-        const newUser = await FacultySchema.create(req.body);
+        const newUser = await FacultyModel.create(req.body);
 
         return success(res, newUser);
     } catch (err) {

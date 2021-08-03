@@ -1,6 +1,7 @@
-const FacultySchema = require('../models/faculty');
 const jwt = require('../helpers/jwt');
 const _ = require('lodash');
+
+const { FacultyModel } = require('../models');
 const { failure } = require('../helpers/response');
 
 const middleware = {};
@@ -18,7 +19,7 @@ middleware.authenticateUser = async (req, res, next) => {
         const decodedToken = await jwt.verifyToken(token, secret);
         const { userId } = decodedToken;
 
-        const faculty = await FacultySchema.findById(userId);
+        const faculty = await FacultyModel.findById(userId);
         req.user = faculty;
         next();
     } catch (err) {
