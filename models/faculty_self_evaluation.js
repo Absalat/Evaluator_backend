@@ -8,13 +8,20 @@ const CourseSchema = mongoose.Schema({
 });
 
 const FacultySelfEvaluationSchema = mongoose.Schema({
+    // this will have the format user.id_year_evaluation_type_semester
+    document_key: { type: String, unique: true },
+
+    year: { type: String, required: true },
+    semester: { type: Number, enum: [1, 2, null], default: null },
+    evaluation_type: { type: String, enum: ['expected', 'achieved'], required: true },
+
     hdp_training: { type: String, enum: ['yes', 'no'], default: 'no' },
     higher_degree_earned: { type: String, enum: ['bsc', 'msc', 'phd'], required: true, },
     entrepreneurship_training: { type: String, enum: ['yes', 'no'], default: 'no' },
     other_trainings_skills_gained: { type: String, enum: ['yes', 'no'], default: 'no' },
 
     // document owner
-    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
+    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true },
 
     // course tought
     bsc_courses: { type: [CourseSchema], default: [] },
@@ -115,5 +122,26 @@ FacultySelfEvaluationSchema.options.toJSON = {
         return ret;
     }
 };
+
+FacultySelfEvaluationSchema.pre("save", async function (next) {
+    if (this.evaluation_type == "achieved" && this.semester == null) {
+        return next("semester is required for achieved evaluation type");
+    }
+
+    if (this.evaluation_type == "expected") {
+        this.semester = null;
+    }
+
+    const userId = this.user.toString();
+
+    // format:: user.id_year_evaluation_type_semester (if semester exists)
+    this.document_key = `${userId}_${this.year}_${this.evaluation_type}`;
+
+    if (this.semester) {
+        this.document_key += `_${this.semester}`;
+    }
+
+    next();
+});
 
 module.exports = mongoose.model(modelName, FacultySelfEvaluationSchema);
