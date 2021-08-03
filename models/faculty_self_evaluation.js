@@ -9,7 +9,7 @@ const CourseSchema = mongoose.Schema({
 
 const FacultySelfEvaluationSchema = mongoose.Schema({
     hdp_training: { type: String, enum: ['yes', 'no'], default: 'no' },
-    higher_degree_earned: { type: String, enum: ['yes', 'no'], default: 'no' },
+    higher_degree_earned: { type: String, enum: ['bsc', 'msc', 'phd'], required: true, },
     entrepreneurship_training: { type: String, enum: ['yes', 'no'], default: 'no' },
     other_trainings_skills_gained: { type: String, enum: ['yes', 'no'], default: 'no' },
 
