@@ -1,2 +1,5 @@
 node_modules
 .env
+user_data.json
+user_credentials.json
+credential_generator.py
