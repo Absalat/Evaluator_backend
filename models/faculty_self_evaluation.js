@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const modelName = 'FacultySelfEvaluation';
 
 const CourseSchema = mongoose.Schema({
-    course_name: { type: String, required: true },
-    course_code: { type: String, required: true },
+    course_name: { type: String },
+    course_code: { type: String },
 });
 
 const FacultySelfEvaluationSchema = mongoose.Schema({
