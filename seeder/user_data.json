@@ -1,0 +1,3946 @@
+[
+    {
+        "No": "1",
+        "Name": "Abdi Mirgissa Kaba",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "",
+        "field8": "Assistant Lecturer",
+        "field9": "41",
+        "field10": "10.594315245478%",
+        "field11": ""
+    },
+    {
+        "No": "2",
+        "Name": "Abdulkadir Aman Hassen",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE",
+        "field7": "",
+        "field8": "Lecturer",
+        "field9": "239",
+        "field10": "61.7571059431525%",
+        "field11": ""
+    },
+    {
+        "No": "3",
+        "Name": "Abdurahman Idris Mohamed",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "level",
+        "field6": "CBME"
+    },
+    {
+        "No": "4",
+        "Name": "Abebe Assefa  Seme",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "Assistant Professor",
+        "field9": "70",
+        "field10": "18.0878552971576%",
+        "field11": ""
+    },
+    {
+        "No": "5",
+        "Name": "Abebe Dinku Belay",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SCEE",
+        "field7": "",
+        "field8": "Associate Professor",
+        "field9": "28",
+        "field10": "7.23514211886305%",
+        "field11": "0.276485788113695"
+    },
+    {
+        "No": "6",
+        "Name": "Abebe Teklu W/Giorgis",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE",
+        "field7": "PhD Study CHINA",
+        "field8": "Professor",
+        "field9": "9",
+        "field10": "2.32558139534884%",
+        "field11": ""
+    },
+    {
+        "No": "7",
+        "Name": "Abebe Worku Weldeabe",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "",
+        "field6": "SMiE"
+    },
+    {
+        "No": "8",
+        "Name": "Abebe Demissie Chekol",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "9",
+        "Name": "Abel  Kebede Reda",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study Ethio-Log Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "10",
+        "Name": "Abenzer  Tesemma Abere",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "11",
+        "Name": "Abi Abate Dejen",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "12",
+        "Name": "Abinet Redi Mohammed",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "13",
+        "Name": "Abiy Abebe Cherinet",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "14",
+        "Name": "Abiyu Alemayehu Wondemu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "15",
+        "Name": "Abraham Molla Nigatu",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "diploma",
+        "field6": "CBME"
+    },
+    {
+        "No": "16",
+        "Name": "Abreham Arasa Desta",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "17",
+        "Name": "Abreham Assefa Tsehaye",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "19",
+        "Name": "Abrham Gebere Tarekegn",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "20",
+        "Name": "Absalat Dawit Getachew",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "21",
+        "Name": "Abubeker Yimam Ali",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "22",
+        "Name": "Adam  Abera Challa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "23",
+        "Name": "Adamu  Zegeye Hadis",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "24",
+        "Name": "Adane Bazezew Shiferaw",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "25",
+        "Name": "Adane Tegene Tefera",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "diploma",
+        "field6": "SiTE"
+    },
+    {
+        "No": "26",
+        "Name": "Addis Mesfin Alene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "27",
+        "Name": "Adem Shukrala Reshid",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "28",
+        "Name": "Adil Zekaria Abdullahi",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "29",
+        "Name": "Admasu Gebeyehu Awoke",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "30",
+        "Name": "Adugnaw  Lake Temesgen",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "31",
+        "Name": "Agzew Negussie Engida",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "32",
+        "Name": "Aklilu G/Hawarya G/Mariam",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "33",
+        "Name": "Alelign Berihun Reta",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "34",
+        "Name": "Alemayehu Bekele Melka",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "diploma",
+        "field6": "SCEE"
+    },
+    {
+        "No": "35",
+        "Name": "Alula  Mebratu Kumelit",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "36",
+        "Name": "Amanuel Negash Mersha",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "37",
+        "Name": "Amare Assefa Ashagrie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "38",
+        "Name": "Amha Mulugeta Gewe",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "39",
+        "Name": "Andenet  Ashagre Gedamu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "40",
+        "Name": "Andinet Kumella Eticha",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "41",
+        "Name": "Andualem Ali Yimam",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study BELGIUM",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "42",
+        "Name": "Andualem Bahiru Abera",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "43",
+        "Name": "Angaw Chaklu Engidaw",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "44",
+        "Name": "Anteneh Mitiku Bezabih",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "diploma",
+        "field6": "SCEE"
+    },
+    {
+        "No": "45",
+        "Name": "Anteneh Zewdu Dierba",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE"
+    },
+    {
+        "No": "46",
+        "Name": "Anteneh  Afework Mekonnen",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "47",
+        "Name": "Anteneh  Tadios Kebede",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "diploma",
+        "field6": "SMiE"
+    },
+    {
+        "No": "48",
+        "Name": "Anteneh   Getnet Mitiku",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "49",
+        "Name": "Anuradha Jabasingh",
+        "Sex": "F",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "50",
+        "Name": "Araya Abera Betelie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "51",
+        "Name": "Arsema Derbie Chekole",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "52",
+        "Name": "Asfeha Amare Kiros",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "53",
+        "Name": "Ashenafi Daba Abdi",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "54",
+        "Name": "Asmerom W/Gerima Abay",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "55",
+        "Name": "Asnake Teshome Betru",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "56",
+        "Name": "Asnakech  Wondmu Biza",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "57",
+        "Name": "Asrat Worku Setegn",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "58",
+        "Name": "Assie Kemal Jabir",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "59",
+        "Name": "Atakilti Gidelew Bezabih",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "60",
+        "Name": "Atnafu Admass Mengistu",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "61",
+        "Name": "Awel Mohammedseid Momhur",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE",
+        "field7": "PhD Study KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "62",
+        "Name": "Awraris Getachew W/Giorgis",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "63",
+        "Name": "Ayalsew Dagnew Abetew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "64",
+        "Name": "Ayele Tesema Chala",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE"
+    },
+    {
+        "No": "65",
+        "Name": "Aymenhaji Endrie Ahmed",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "diploma",
+        "field6": "SMiE"
+    },
+    {
+        "No": "66",
+        "Name": "Azeb   G/Meskel T/Haimanot",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "67",
+        "Name": "Azeb Tibebu Demisse",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "68",
+        "Name": "Bazzen Gashaw Teferra",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "69",
+        "Name": "Beakal Gizachew Assefa",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": "SiTE"
+    },
+    {
+        "No": "70",
+        "Name": "Bedilu Habte W/Senbert",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "71",
+        "Name": "Bedru Merhaba Leji",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "72",
+        "Name": "Behailu Guta Regasa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "73",
+        "Name": "Behailu Mamo Zewdie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "74",
+        "Name": "Belay  W/Yes W/Silasse",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "75",
+        "Name": "Belayneh  Melka Oda",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "76",
+        "Name": "Belete Berhanu Kidanewold",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "77",
+        "Name": "Belete Tekle Muhabe",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "78",
+        "Name": "Bemnet zelalem getachew",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "79",
+        "Name": "Beneyam Berehanu Haile",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "80",
+        "Name": "Berhanemeskel Engliz Biyan",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "81",
+        "Name": "Berhanu Beshah Abebe",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "82",
+        "Name": "Beteley Tekola Meshesha",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "83",
+        "Name": "Betelhem  Abera Sufa",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "84",
+        "Name": "Bethelehem  Seifu Shawel",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-Belgium PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "85",
+        "Name": "Bethelehem  Wondimineh Demeke",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "86",
+        "Name": "Bethlehem Worku Yenealem",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "87",
+        "Name": "Betsegaw Lemma Amersho",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "88",
+        "Name": "Bezawit Wubishet Mekonnen",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "89",
+        "Name": "Bikila Teklu Wodajo",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "90",
+        "Name": "Bililign  Amare Birhanu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "91",
+        "Name": "Biniam Shumet Desalegn",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant I",
+        "degree": "Adv. Diploma",
+        "field6": "CBME"
+    },
+    {
+        "No": "92",
+        "Name": "Biniyam Ayalew Abera",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE"
+    },
+    {
+        "No": "93",
+        "Name": "Birhane G/Silassie Tekilu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "94",
+        "Name": "Birhanu Assefa Belay",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME",
+        "field7": "PhD Study Finland",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "95",
+        "Name": "Birhanu Assefa Demisse",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "97",
+        "Name": "Birhanu Reesom Bisrat",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE"
+    },
+    {
+        "No": "98",
+        "Name": "Biruk Abreham Azene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "99",
+        "Name": "Biruk Asmare Muse",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "100",
+        "Name": "Biruk Yohannes Abebe",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "101",
+        "Name": "Biruktawit Taye Tarekegne",
+        "Sex": "F",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": "SCEE"
+    },
+    {
+        "No": "102",
+        "Name": "Bisrat Kassahun Gebeyehu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "103",
+        "Name": "Bisrat  Eshetu Alemu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "104",
+        "Name": "Bisrat  Gebre Woldetsadik",
+        "Sex": "M",
+        "Rank": "Technical Assistant",
+        "degree": "",
+        "field6": "SECE"
+    },
+    {
+        "No": "105",
+        "Name": "Bisrat Derbsa Dufera",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": "SECE"
+    },
+    {
+        "No": "106",
+        "Name": "Brook Tesfamicael Tefera",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "107",
+        "Name": "Bruck Alemu Metekia",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "108",
+        "Name": "Celestin Nkundineza",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "109",
+        "Name": "Chalachew Setegne Mihiret",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "110",
+        "Name": "Dagem Zekaryas Haddis",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "111",
+        "Name": "Daniel Abebe Negash",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "112",
+        "Name": "Daniel Dilbie Tessema",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "113",
+        "Name": "Daniel F/Sillasssie Tesfa",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "114",
+        "Name": "Daniel Kitaw Azene",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "115",
+        "Name": "Daniel Tilahun Redda",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "116",
+        "Name": "Dawit Gemechu Ayana",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CME"
+    },
+    {
+        "No": "117",
+        "Name": "Dawit Mussie Yasin",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "118",
+        "Name": "Dawit  Assefa Hile",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CBME"
+    },
+    {
+        "No": "119",
+        "Name": "Dawit Habtu G/Maskel",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "120",
+        "Name": "Demiss Alem Ambie",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "121",
+        "Name": "Demissew Melaku Zegeye",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "123",
+        "Name": "Dereje Abebe Kebede",
+        "Sex": "M",
+        "Rank": "Technical Assistant",
+        "degree": "",
+        "field6": "SMiE"
+    },
+    {
+        "No": "124",
+        "Name": "Dereje Chinkil Shenkut",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": ""
+    },
+    {
+        "No": "125",
+        "Name": "Dereje H/Mariam Woldegebreal",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "126",
+        "Name": "Dereje Hailu Asfaw",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "127",
+        "Name": "Dereje Shebu Garuma",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "diploma",
+        "field6": "SMiE"
+    },
+    {
+        "No": "128",
+        "Name": "Dereje Shiferaw Negash",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "129",
+        "Name": "Dereje Tadesse Desalegn",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "130",
+        "Name": "Derese Birbirsa Bedda",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "131",
+        "Name": "Desalegn Ayalew Mengestie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "132",
+        "Name": "Desalegn Wogaso Wolla",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "133",
+        "Name": "Desta Lemma Gebrewold",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "134",
+        "Name": "Dure Mulatu Geleta",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "135",
+        "Name": "Ebrahim Tilahun",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CRE"
+    },
+    {
+        "No": "136",
+        "Name": "Ebsa Tesfa Hordofa",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "137",
+        "Name": "Eden Binega Yemesegen",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "138",
+        "Name": "Edom  Adane Zewdie",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study JAPAN",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "139",
+        "Name": "Elfelious Getachew Belay",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "140",
+        "Name": "Elias Tadesse Belachew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "141",
+        "Name": "Elias Yilma Tefera",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "142",
+        "Name": "Eliyas Dessia Abera",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "143",
+        "Name": "Emebet Hailu Mamo",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "144",
+        "Name": "Emnet Tadesse Yimam",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "145",
+        "Name": "Endrias Haile Gebrehiot",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "146",
+        "Name": "Endriss Ali Umer",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "147",
+        "Name": "Ephframe Tesfaye Ayele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "148",
+        "Name": "Ephrem Teshale Bekele",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "149",
+        "Name": "Ermias Genye Endaylalu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "150",
+        "Name": "Ermias Tesfaye Mengistu",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "151",
+        "Name": "Ermias Telahun Teka",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "152",
+        "Name": "Esayas G/Yohannes Ftiwi",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "153",
+        "Name": "Eshetie Berhan Atanaw",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "154",
+        "Name": "Ethiopia Bisrat Zeleke",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "155",
+        "Name": "Etsegenet Worku Haile",
+        "Sex": "F",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "156",
+        "Name": "Eyob Gebretinsae Beyene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "157",
+        "Name": "Eyob Wondimkun Endilalu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "158",
+        "Name": "Fantahun Abeje Bitaw",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "159",
+        "Name": "Fasil Tebeje Fetene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "160",
+        "Name": "Feseha  Nega Berhane",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study SOUTH KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "161",
+        "Name": "Fetene Mulugeta Yigletu",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "162",
+        "Name": "Feven Fisseha Bezabih",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "163",
+        "Name": "Feven Tadesse Dadi",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "164",
+        "Name": "Fikade Mulugeta Gassa",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "165",
+        "Name": "Fikerte  Eshetu Agede",
+        "Sex": "F",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "166",
+        "Name": "Fikir Awoke Fantahun",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "167",
+        "Name": "Fikru Bedada Waktola",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study Bio-HOME Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "168",
+        "Name": "Firesenay  Zerabruk Gigar",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "169",
+        "Name": "Fiseha Behulu Muluneh",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "170",
+        "Name": "Fistum Alemu Degefu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "171",
+        "Name": "Fitsum Assaminew Andargie",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "172",
+        "Name": "Fitsum Debebe Tilahun",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "173",
+        "Name": "Fitsum Getachew Bayu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "174",
+        "Name": "Fitsum  Teshome Wolkeba",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "175",
+        "Name": "Fitsume Salehu Kebede",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CRE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "176",
+        "Name": "G.C Shantha Kumar",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "177",
+        "Name": "Gebremedhin  Tekeste Gebremichal",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study SOUTH KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "178",
+        "Name": "Gebrewold  Teklay Gebretnsae",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "PhD Study Bio-HOME Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "179",
+        "Name": "Gemechis Abdisa Tarinu",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "level",
+        "field6": "SCBE"
+    },
+    {
+        "No": "180",
+        "Name": "Gemechu Bushu Tese",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "181",
+        "Name": "Georgies Alene Asres",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CME"
+    },
+    {
+        "No": "182",
+        "Name": "Geremew  Sahlu Gebrie",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "183",
+        "Name": "Getachew Alemu Wondimagegn",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "184",
+        "Name": "Getachew Teshome W/Geberael",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "185",
+        "Name": "Getachew  Bekele Beyene",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "186",
+        "Name": "Getasew Ashagrie Tadesse",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "187",
+        "Name": "Getu Segni Tulu",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "188",
+        "Name": "Getu  Gabisa Tuffa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "189",
+        "Name": "Getye Gesit Selfegna",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "190",
+        "Name": "Gezahegn Tesfaye Dadi",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "191",
+        "Name": "Gidon Amha Gebremedhin",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "192",
+        "Name": "Girma Masresha Beyene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "193",
+        "Name": "Girma  Zerayohanes W/Yohannes",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "194",
+        "Name": "Gizachew Assefa Zeleke",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "195",
+        "Name": "Gizaei Abera Asmelash",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "196",
+        "Name": "Gulelat Gatew Mengesha",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "197",
+        "Name": "Gyeon Man Kim",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "Professor",
+        "field6": "SiTE"
+    },
+    {
+        "No": "198",
+        "Name": "Habtamu Mamo Yimam",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "199",
+        "Name": "Habtamu Mihrete Tsegaw",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "200",
+        "Name": "Habtamu  Asmare Achenef",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "201",
+        "Name": "Habtamu Tkubet Ebuy",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "202",
+        "Name": "Haile Baye Kassahun",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "203",
+        "Name": "Haileleuel  Sahle Habte",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "204",
+        "Name": "Hailemelekot Demtse Tessema",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "205",
+        "Name": "Haileselassie G/Hiwot Tesfaye",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "206",
+        "Name": "Haimanot Abebe Safaye",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "207",
+        "Name": "Haimanot  Zewdie Deberneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "208",
+        "Name": "Hairedin Ismael Kemal",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "209",
+        "Name": "Hana Asrat Fiseha",
+        "Sex": "F",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "210",
+        "Name": "Hana Mekuria Admike",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "211",
+        "Name": "Hanan  Endris Damtew",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "212",
+        "Name": "Helen Zewdie Kine",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study Ethio-Log Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "213",
+        "Name": "Helina Asfaw Alemu",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "214",
+        "Name": "Henok Mulugeta Melaku",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SITE"
+    },
+    {
+        "No": "215",
+        "Name": "Henok Zawedu Workneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "216",
+        "Name": "Henok  Fikre Gebregziabher",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "217",
+        "Name": "Henok Teklewold Yemanewold",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "218",
+        "Name": "Heyab Getachew Gebremariam",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "219",
+        "Name": "Hilina Demeke Seifu",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study Ethio-Log Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "220",
+        "Name": "Hilina Haftu Woldu",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "221",
+        "Name": "Hintsaselassie Seifu Ascheneke",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "222",
+        "Name": "Hiskel Kelemework Atnafu",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "223",
+        "Name": "Hiwot Hailu Teshome",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "224",
+        "Name": "Israel Abera Terefa",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "diploma",
+        "field6": "SMiE"
+    },
+    {
+        "No": "225",
+        "Name": "Jibril Akmel Mohammed",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "226",
+        "Name": "Jonny  Girma Tefera",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "227",
+        "Name": "kabila Haile Soboka",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "228",
+        "Name": "Kajela Temesgen Deressa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "229",
+        "Name": "Kalied Hussien Jemal",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "230",
+        "Name": "Kalkidan  Deme Muleta",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study SOUTH KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "231",
+        "Name": "Kamil Dino Adem",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "232",
+        "Name": "Kasahun Abdisa Gonfa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "233",
+        "Name": "Kassu Jilcha Sileyew",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "234",
+        "Name": "Kehali Kiros Gebremariam",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "235",
+        "Name": "Keresa Defa Ayana",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study Bio-HOME Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "236",
+        "Name": "Kidist Kebede Regasa",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "237",
+        "Name": "Kinde Mekuria Nigusse",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "238",
+        "Name": "Kiros  Tesfay Redda",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "239",
+        "Name": "Kumsa Delessa Kuffi",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "240",
+        "Name": "Lebsework Negash Lemma",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "241",
+        "Name": "Leelavathy Rejash",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "ARCE"
+    },
+    {
+        "No": "242",
+        "Name": "Leena  Shemsu Ahmed",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "243",
+        "Name": "Lidya  Damtew Ashenafi",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "244",
+        "Name": "Lulit Habte Ekubatsion",
+        "Sex": "F",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "245",
+        "Name": "Luna Geo Kitila",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "246",
+        "Name": "Mahder Habtu Assefa",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "247",
+        "Name": "Mahider Yifru Addisu",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "248",
+        "Name": "Mahiet  Melaku Kebede",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study USA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "249",
+        "Name": "Mahlet Demere Tadesse",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "250",
+        "Name": "Mahlet Wondwosen Ayele",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "251",
+        "Name": "Mani Sarma",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CBME"
+    },
+    {
+        "No": "252",
+        "Name": "ManjuNath Gadiparth",
+        "Sex": "F",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CBME"
+    },
+    {
+        "No": "253",
+        "Name": "Martha Yishak Mengistu",
+        "Sex": "F",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "254",
+        "Name": "Martha  T/Giorgis Assefa",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "255",
+        "Name": "Masreshaw Demelash Bayleyegn",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CBME"
+    },
+    {
+        "No": "256",
+        "Name": "Mastewal Shumet Mesele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "257",
+        "Name": "Mastewal  Teshale Bekele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "258",
+        "Name": "Matias  Kabtamu Mekonnen",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "259",
+        "Name": "Mebruk     Mohammed Nurhussen",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "260",
+        "Name": "Mehiret Walga Waldemariam",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "261",
+        "Name": "Mekdem Assefa Kerisime",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "262",
+        "Name": "Mekdes Seyoum Abebe",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "263",
+        "Name": "Mekdes  Tadesse Mengistu",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study ITALY",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "264",
+        "Name": "Meklit berhun Melesse",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "265",
+        "Name": "Mekuannint Mesfin Messele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "PhD Study NORWAY",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "266",
+        "Name": "Melaeke Serawit Niguse",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "267",
+        "Name": "Melat Berhanu G/Selassie",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "268",
+        "Name": "Melkamu Hunegnaw Asmare",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME",
+        "field7": "Ethio-Belgium PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "269",
+        "Name": "Mengesha Mamo Wagari",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "270",
+        "Name": "Menore Tekeba Mengistu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "271",
+        "Name": "Meron Wondafrash Mengesha",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "272",
+        "Name": "Meseret Nigate Tefera",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "273",
+        "Name": "Mesfin Agide Bahiru",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "274",
+        "Name": "Mesfin Belayneh",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CRE"
+    },
+    {
+        "No": "275",
+        "Name": "Mesfin Berhanu Negash",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "276",
+        "Name": "Mesfin  Tilahun Tessema",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "277",
+        "Name": "Meskerem Hailu Mekuria",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "278",
+        "Name": "Michael Getachew Wolde",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "279",
+        "Name": "Mihreteab  Negash Geletu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "280",
+        "Name": "Milkyas Tarekegn Lemma",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "level",
+        "field6": "SCEE"
+    },
+    {
+        "No": "281",
+        "Name": "Minase Mekete Mengistu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "282",
+        "Name": "Misgun Samuel Feyissa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "283",
+        "Name": "Miskir Milkias Finsa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "284",
+        "Name": "Mohammed Abdo Tuko",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "285",
+        "Name": "Mohammed  Sirag Ibrahim",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study NETHERLAND",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "286",
+        "Name": "Molalign Emirie Hailu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "287",
+        "Name": "Muaz    Bedru Hussen",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": "SMiE"
+    },
+    {
+        "No": "288",
+        "Name": "Muliye Kibabew Weldeamanuel",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "289",
+        "Name": "Mulugeta G/Yohannes Aregay",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study SOUTH KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "290",
+        "Name": "Mulugeta  Ayele Birhanu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "291",
+        "Name": "Murad Ridwan Hassen",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "292",
+        "Name": "Nagendra Prasad",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "Professor",
+        "field6": "SiTE"
+    },
+    {
+        "No": "293",
+        "Name": "Nahome Mulugeta Balcha",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "294",
+        "Name": "Nardos Hailu Zergaw",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "295",
+        "Name": "Natenael  Bekssisa Dandena",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "296",
+        "Name": "Nathnael Bekele Adamu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "297",
+        "Name": "Natnael Agraw Wondimu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "298",
+        "Name": "Natnael Alemu Anjulo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "299",
+        "Name": "Nebiat Fikru Asrega",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "300",
+        "Name": "Nebiyu Tadesse Debele",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "301",
+        "Name": "Nebiyu Tenaye W/Gebriel",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "302",
+        "Name": "Nebyiou Getachew Arega",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study SOUTH KOREA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "303",
+        "Name": "Nebyou  Yonas Sutri",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-Belgium PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "304",
+        "Name": "Niguse Edeo Dafi",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "305",
+        "Name": "Nuniyat Kifle Abebe",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "306",
+        "Name": "Nurelegne Tefera Shibeshi",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "Phd",
+        "field6": "SCBE"
+    },
+    {
+        "No": "307",
+        "Name": "Omer  Nega Ahmed",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "308",
+        "Name": "Raeed Ali Mohammed",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study Ethio-Log Project",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "309",
+        "Name": "Rahel  Berhanu Dibiya",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "310",
+        "Name": "Rediet  Million Moges",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "311",
+        "Name": "Robeam Solomon Melaku",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": "SCEE"
+    },
+    {
+        "No": "312",
+        "Name": "Robel  Kebede Gebre",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME",
+        "field7": "PhD Fin",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "313",
+        "Name": "Sadik  Muzeyim Uomer",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "314",
+        "Name": "Salih Berhanu Ahmed",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "315",
+        "Name": "Samrawit Kassaye Kebede",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "316",
+        "Name": "Samson Addisu Geleta",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "317",
+        "Name": "Samuel Admase Alene",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "318",
+        "Name": "Samuel Melke G/Medihen",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "319",
+        "Name": "Samuel Tadesse Tafessa",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "320",
+        "Name": "Samuel Tesfaye Mekonone",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "321",
+        "Name": "Seblewongel Tsegaye Kassa",
+        "Sex": "F",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "322",
+        "Name": "Seid Endrie Gebeyehu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "323",
+        "Name": "Seifesilasse Hailu Ejigu",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "diploma",
+        "field6": "SiTE"
+    },
+    {
+        "No": "324",
+        "Name": "Selam Belay Sahlu",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "325",
+        "Name": "Selam Melkamu Alemu",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "326",
+        "Name": "Selam Yazew Ayele",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "327",
+        "Name": "Selam Yohannes Gebremedhin",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "328",
+        "Name": "Selameab Setargaw Demilew",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "329",
+        "Name": "Selanawit Engliz Biyan",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "330",
+        "Name": "Selemon Nigussu Mamo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "331",
+        "Name": "Semere Birhane Gebrekidan",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "Phd",
+        "field6": ""
+    },
+    {
+        "No": "332",
+        "Name": "Semihar Ayalew Abate",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "333",
+        "Name": "Semir Mohammedibrahim Negash",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "334",
+        "Name": "Semma  Baye Sinka",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "335",
+        "Name": "Senait Agiza Jijo",
+        "Sex": "F",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "336",
+        "Name": "Sendeku  Takele   Alemeneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "337",
+        "Name": "Serkalem Damenu Beyene",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME",
+        "field7": "PhD FIn",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "338",
+        "Name": "Shegaw Ahmed Mohammed",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "339",
+        "Name": "Shiferaw Taye Tesema",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "340",
+        "Name": "Shimelis Admassu Emire",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "341",
+        "Name": "Shimelis Kebede Kassahun",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "342",
+        "Name": "Shimelis  Mekennen Tadesse",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "343",
+        "Name": "Shimels  Shumi Raya",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "344",
+        "Name": "Shumet  Sendek Sharew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "345",
+        "Name": "Silesh Demesie Yalew",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "346",
+        "Name": "Sintayehu   Nibret Tiruneh",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "347",
+        "Name": "Sisay Walelegn Dagnechew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "348",
+        "Name": "Sitotaw Mengistie Mahtebu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "349",
+        "Name": "Solomon Bayu Huluka",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "350",
+        "Name": "Solomon Kiros Fantaye",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "351",
+        "Name": "Solomon Tesfamriam Teferi",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "CRE"
+    },
+    {
+        "No": "352",
+        "Name": "Solomon Zegeye Fenta",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "353",
+        "Name": "Solomon Bogale Kassa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "354",
+        "Name": "Sophonyas Asrat Wachelo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "355",
+        "Name": "Sosina Abiyot Berhan",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "356",
+        "Name": "Sosina Mengistu Gashaw",
+        "Sex": "F",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "357",
+        "Name": "Sreenivas Nune",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "358",
+        "Name": "Surafel Tilahun Haile",
+        "Sex": "M",
+        "Rank": "Technical Assistant",
+        "degree": "diploma",
+        "field6": "SCEE"
+    },
+    {
+        "No": "359",
+        "Name": "Surafel  Lemma Abebe",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "360",
+        "Name": "Tadele  Lebay Aligaz",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "361",
+        "Name": "Tadese Chane Alemu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "362",
+        "Name": "Tadesse Shimelis G/Medhin",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "363",
+        "Name": "Tadesse      Nega Abate",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "364",
+        "Name": "Tamirat Assefa Beyene",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "365",
+        "Name": "Tamru Tilahun Habteyes",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "366",
+        "Name": "Teke Gush Gebreegezabehre",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "367",
+        "Name": "Tekleberhan Gebrekirstos W/Mihret",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "368",
+        "Name": "Tenaw Worke Teruneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "369",
+        "Name": "Tensay Gebremedhin Berhe",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "370",
+        "Name": "Tesfaye Gonite Yirga",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "371",
+        "Name": "Tesfaye Refera Soreta",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "CME"
+    },
+    {
+        "No": "372",
+        "Name": "Tesfayesus Zinare Mamo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "373",
+        "Name": "Teshale Tadesse Fufa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "374",
+        "Name": "Teshome Hambissa Dibassa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "SiDA PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "375",
+        "Name": "Tewodage  Sileshi Belehu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "376",
+        "Name": "Tewodros Gemechu Bilr",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "377",
+        "Name": "Tewodros Nigatu Abdi",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "378",
+        "Name": "Tewodros Tadesse Tiruneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "379",
+        "Name": "Tewodros  Walle Mekonnen",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CRE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "380",
+        "Name": "Tewodros Wondiferaw Ayalew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "381",
+        "Name": "Tezazu  Bireda Soressa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "382",
+        "Name": "Tezera Firew Azmatch",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "383",
+        "Name": "Tigabu Dagne Akal",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "384",
+        "Name": "Tigist Asegidew Fege",
+        "Sex": "F",
+        "Rank": "Technical Assistant",
+        "degree": "level",
+        "field6": "SCEE"
+    },
+    {
+        "No": "385",
+        "Name": "Tilahun Nigussie Gemechu",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "386",
+        "Name": "Tilahun Shumet Messle",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "387",
+        "Name": "Tiringo Tadesse Eshetu",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "388",
+        "Name": "Tollosa      Daberie Nessiga",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "389",
+        "Name": "Tsega Sisay Tadesse",
+        "Sex": "M",
+        "Rank": "Senior Technical Assistant",
+        "degree": "",
+        "field6": ""
+    },
+    {
+        "No": "390",
+        "Name": "Tsegamlak  Terefe Debella",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-France PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "391",
+        "Name": "Tsegaye  Feleke Deresea",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "392",
+        "Name": "Tsion Samuel Tegegn",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "CBME"
+    },
+    {
+        "No": "393",
+        "Name": "Venkateswarlu Sunkari",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "394",
+        "Name": "Weyneshet Getachew Zewde",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "395",
+        "Name": "Wondemagegn  Desta Damtew",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "396",
+        "Name": "Wondemgege Getachew G/Tsadik",
+        "Sex": "M",
+        "Rank": "Technical Assistant",
+        "degree": "",
+        "field6": ""
+    },
+    {
+        "No": "397",
+        "Name": "Wondim  Yibza  Tsegaye",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "398",
+        "Name": "Wondosen Bogale Eremed",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "399",
+        "Name": "Worku Abera Yami",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "400",
+        "Name": "Wubiye Mesfin Metaferiya",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "401",
+        "Name": "Yalemzerf  Getnet Bizuye",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "402",
+        "Name": "Yalemzewd Negash Shiferaw",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "403",
+        "Name": "Yared Tadesse Wendimagegnehu",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "404",
+        "Name": "Yared Lemma Feysa",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "405",
+        "Name": "Yeabsira  Asefa Ashengo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "406",
+        "Name": "Yeayneabeba Tadesse Mamo",
+        "Sex": "F",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "407",
+        "Name": "Yemane  Teklay Seyoum",
+        "Sex": "M",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "408",
+        "Name": "Yenesew Mengistie Yihun",
+        "Sex": "F",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "409",
+        "Name": "Yesuf  Detemo Bargicho",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "410",
+        "Name": "Yidnekachew  Messele Ayele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "411",
+        "Name": "Yihenew Wondie Marye",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SECE"
+    },
+    {
+        "No": "412",
+        "Name": "Yilma Tadesse Birhane",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "413",
+        "Name": "Yilma  Seleshi Shiferaw",
+        "Sex": "M",
+        "Rank": "Professor",
+        "degree": "PhD.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "414",
+        "Name": "Yisihak Gebre Tarekegn",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "415",
+        "Name": "Yiwab  Eniyew Tessema",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE"
+    },
+    {
+        "No": "416",
+        "Name": "Yohannes Mengistu Abebe",
+        "Sex": "M",
+        "Rank": "Chief Technical Assistant",
+        "degree": "",
+        "field6": "SMiE"
+    },
+    {
+        "No": "417",
+        "Name": "Yohannes  Dlinesa Kebede",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "418",
+        "Name": "Yonas Solomon Bekele",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "419",
+        "Name": "Yonas  Tesgaye Megra",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SMiE"
+    },
+    {
+        "No": "420",
+        "Name": "Yonas  Yehualashet Tefera",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SECE",
+        "field7": "Ethio-Belgium PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "422",
+        "Name": "Yonas Berhane G/Hiwot",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study CANADA",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "423",
+        "Name": "Yosan Teshome Abdishie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "424",
+        "Name": "Yoseph Abate Hallalo",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SiTE"
+    },
+    {
+        "No": "425",
+        "Name": "Zebene    Kifle W/Mariam",
+        "Sex": "M",
+        "Rank": "Associate Professor",
+        "degree": "PhD.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "426",
+        "Name": "Zerihun Getaneh Workneh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "427",
+        "Name": "Zetseat  Gashaye Saleleh",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCEE"
+    },
+    {
+        "No": "428",
+        "Name": "Zewdie Moges Agzie",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "ARCE",
+        "field7": "PhD Study AAiT-AAU",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "429",
+        "Name": "Zinash Yemane Demissie",
+        "Sex": "F",
+        "Rank": "Assistant Lecturer",
+        "degree": "BSc.",
+        "field6": "SCBE"
+    },
+    {
+        "No": "430",
+        "Name": "Zinnabu  Tassew Redda",
+        "Sex": "M",
+        "Rank": "Lecturer",
+        "degree": "MSc.",
+        "field6": "SCBE",
+        "field7": "Ethio-German PhD Program",
+        "field8": "",
+        "field9": "",
+        "field10": "",
+        "field11": ""
+    },
+    {
+        "No": "431",
+        "Name": "Chala  Merga",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD",
+        "field6": "SECE"
+    },
+    {
+        "No": "432",
+        "Name": "Mesifin Gizaw",
+        "Sex": "M",
+        "Rank": "Assistant Professor",
+        "degree": "PhD",
+        "field6": "SMiE"
+    }
+]
