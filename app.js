@@ -17,6 +17,7 @@ mongoose.connect(process.env.MONGODB_URL, {
 
 const indexRouter = require('./routes/index');
 const authRouter = require('./routes/auth');
+const userRouter = require('./routes/users');
 
 const app = express();
 app.use(cors());
@@ -27,6 +28,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/api/v1/auth', authRouter);
+app.use('/api/v1/users', userRouter);
 app.use('/api/v1/evaluation', indexRouter);
 
 app.use((req, res, next) => {
