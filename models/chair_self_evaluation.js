@@ -21,7 +21,6 @@ const ChairSelfEvaluationSchema = mongoose.Schema({
     // document_owner
     user: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
 
-    // Chair's profile.
     num_of_technical_staff: { type: Number, default: null },
     num_of_bsc_holders: { type: Number, default: null },
     num_of_msc_holders: { type: Number, default: null },
