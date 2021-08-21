@@ -134,7 +134,7 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     num_of_community_services_initiated: { type: Number, default: null },
     num_of_community_services_completed: { type: Number, default: null },
     num_of_benefited_parties: { type: Number, default: null },
-});
+}, { timestamps: true });
 
 SchoolSelfEvaluationSchema.options.toJSON = {
     transform: function (doc, ret, options) {

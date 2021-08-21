@@ -3,7 +3,7 @@ const { FacultyModel } = require('../models');
 
 const { authenticateUser, is } = require('../middlewares/auth');
 const { failure, success } = require('../helpers/response');
-const { SUPER_ADMIN, FACULTY } = require('../constants/roles');
+const { SUPER_ADMIN } = require('../constants/roles');
 
 const router = express.Router();
 
@@ -16,7 +16,7 @@ router.get('/', authenticateUser, is(SUPER_ADMIN), async (req, res) => {
         const query = {};
 
         if (username) {
-            query.username = new RegExp("^" + username);
+            query.username = new RegExp("^" + username.toString().trim());
         }
 
         const allUsersCount = await FacultyModel.countDocuments(query);

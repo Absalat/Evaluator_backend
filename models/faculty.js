@@ -28,7 +28,7 @@ const FacultySchema = mongoose.Schema({
         }],
         default: []
     }
-});
+}, { timestamps: true });
 
 FacultySchema.options.toJSON = {
     transform: function (doc, ret, options) {
