@@ -54,7 +54,7 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     msc_completed: { type: Number, default: null },
     phd_started: { type: Number, default: null },
     phd_completed: { type: Number, default: null },
-    special_training: {type: Number, default: null},
+    special_training: { type: Number, default: null },
 
     // teaching and learning
     student_feedback_teaching_quality: { type: Number, min: 0, max: 5, default: 0 },
@@ -65,22 +65,22 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     teaching_materials_soft_copy: { type: Number, default: null },
     e_learning_lectures_full_course: { type: Number, default: null },
     e_learning_lectures_part_of_course: { type: Number, default: null },
-    
+
     // student education & research taskforces (sert)
     sert_num_of_project_teams: { type: Number, default: null },
     sert_num_of_projects: { type: Number, default: null },
     sert_num_of_tutorials: { type: Number, default: null },
 
     // entrepreneurship
-    courses_num_of_students: {type: Number, default: null},
-    training_num_of_trainings: {type: Number, default: null},
-    training_num_of_students: {type: Number, default: null},
+    courses_num_of_students: { type: Number, default: null },
+    training_num_of_trainings: { type: Number, default: null },
+    training_num_of_students: { type: Number, default: null },
 
-    project_num_of_projects: {type: Number, default: null},
-    project_num_of_students: {type: Number, default: null},
+    project_num_of_projects: { type: Number, default: null },
+    project_num_of_students: { type: Number, default: null },
 
-    num_of_motivational_programs: {type: Number, default: null},
-    num_of_motivational_program_atendees: {type: Number, default: null},
+    num_of_motivational_programs: { type: Number, default: null },
+    num_of_motivational_program_atendees: { type: Number, default: null },
 
     // Research
     num_of_research_grant_applied_internal: { type: Number, default: null },
@@ -101,6 +101,8 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     submitted_journal_papers_international: { type: Number, default: null },
     conference_proceedings_national: { type: Number, default: null },
     conference_proceedings_international: { type: Number, default: null },
+    conference_workshop_organized_national: { type: Number, defaullt: null },
+    conference_workshop_organized_international: { type: Number, defaullt: null },
 
     seminar_school_speaker: { type: Number, default: null },
     seminar_external_speaker: { type: Number, default: null },
@@ -113,6 +115,8 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     // university industry linkage
     partnership_established_mou_signed: { type: Number, default: null },
     partnership_established_joint_workshops: { type: Number, default: null },
+    industry_projects_initiated: { type: Number, default: null },
+    industry_projects_completed: { type: Number, default: null },
 
     // consultancy
     short_term_training: { type: Number, default: null },
