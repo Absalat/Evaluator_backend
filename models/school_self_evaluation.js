@@ -19,7 +19,7 @@ const SchoolSelfEvaluationSchema = mongoose.Schema({
     approved_date: { type: Date, default: null },
 
     // document_owner
-    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
+    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true, index: true },
 
     // academic staff profile
     technical_staffs: { type: Number, default: null },

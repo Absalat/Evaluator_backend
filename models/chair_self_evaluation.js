@@ -19,7 +19,7 @@ const ChairSelfEvaluationSchema = mongoose.Schema({
     approved_date: { type: Date, default: null },
 
     // document_owner
-    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', default: null },
+    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true, index: true },
 
     num_of_technical_staff: { type: Number, default: null },
     num_of_bsc_holders: { type: Number, default: null },

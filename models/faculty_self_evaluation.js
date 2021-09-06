@@ -21,7 +21,7 @@ const FacultySelfEvaluationSchema = mongoose.Schema({
     other_trainings_skills_gained: { type: String, enum: ['yes', 'no'], default: 'no' },
 
     // document owner
-    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true },
+    user: { type: mongoose.Types.ObjectId, ref: 'Faculty', required: true, index: true },
 
     // course tought
     tought_bsc_courses: { type: [CourseSchema], default: [] },

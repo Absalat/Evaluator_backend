@@ -67,6 +67,58 @@ const evaluationRetrievalHandler = (EvaluationModel) => {
     }
 }
 
+const currentUserEvauationRetrievalHandler = async (req, res) => {
+    const start = parseInt(req.query.start) || 0;
+    const limit = parseInt(req.query.limit) || 10;
+    const role = req.query.role || FACULTY;
+
+    let EvaluationModel = null;
+
+    switch (role) {
+        case FACULTY:
+            EvaluationModel = FacultySelfEvaluationModel;
+            break;
+        case DEAN:
+            EvaluationModel = SchoolSelfEvaluationModel;
+            break;
+        case CHAIR:
+            EvaluationModel = ChairSelfEvaluationModel;
+            break;
+        default:
+            break;
+    }
+
+    const modelDecided = EvaluationModel != null;
+
+    if (!modelDecided) {
+        return failure(res, "provide a valid role");
+    }
+
+    try {
+        const query = { user: req.user._id };
+
+        const totalEvaluations = await EvaluationModel.countDocuments(query);
+        const evaluations = await EvaluationModel
+            .find(query)
+            .populate('user')
+            .skip(start)
+            .limit(limit)
+            .exec();
+        return success(res, { evaluations: evaluations, totalEvaluations: totalEvaluations });
+    } catch (err) {
+        return failure(res, err);
+    }
+}
+
+
+
+router.get(
+    '/',
+    authenticateUser,
+    is(FACULTY),
+    currentUserEvauationRetrievalHandler,
+)
+
 router.get(
     '/faculty',
     authenticateUser,
